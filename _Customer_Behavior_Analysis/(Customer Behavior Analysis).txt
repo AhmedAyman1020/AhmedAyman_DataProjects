@@ -1,0 +1,18 @@
+# Customer Behavior Analysis
+
+## Goal
+Analyze customer purchase patterns to identify top customers and behavior trends.
+
+## Tools
+- Python (Pandas)
+- SQL
+- Excel / Power BI
+
+## Steps
+1. Clean customer orders data
+2. Aggregate orders and total spend per customer
+3. Identify top 10% customers
+4. Create charts and dashboards for visualization
+
+## Outcome
+Generated insights on customer purchasing patterns and dashboards for business decision-making.
