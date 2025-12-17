@@ -1,0 +1,18 @@
+# Data Quality Assessment
+
+## Goal
+Assess and improve dataset quality for accurate reporting and analysis.
+
+## Tools
+- Python (Pandas)
+- SQL
+- Excel / Power BI
+
+## Steps
+1. Identify missing values and duplicates
+2. Handle missing or inconsistent data
+3. Export cleaned dataset
+4. Document issues and recommendations
+
+## Outcome
+Produced clean, validated datasets ready for analysis, with documentation of data quality issues.
