@@ -1,0 +1,18 @@
+# Sales Data Cleaning & Dashboard
+
+## Goal
+Clean and analyze monthly sales data, create dashboards to track KPIs.
+
+## Tools
+- Python (Pandas)
+- SQL
+- Excel / Power BI
+
+## Steps
+1. Clean data (duplicates, missing values, date formatting)
+2. Perform EDA (monthly sales, top products)
+3. Build dashboards (Pivot Tables, Charts)
+4. SQL queries for aggregate analysis
+
+## Outcome
+Generated clean datasets, monthly sales reports, and dashboards showing top products and KPIs.

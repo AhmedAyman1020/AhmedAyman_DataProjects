@@ -1,0 +1,5 @@
+Date,ProductID,ProductName,Quantity,Price,SalesAmount
+2025-12-01,P001,Widget A,10,50,500
+2025-12-02,P002,Widget B,5,80,400
+2025-12-03,P003,Widget C,7,60,420
+2025-12-04,P001,Widget A,12,50,600
